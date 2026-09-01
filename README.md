@@ -1,6 +1,7 @@
 ### Hi there! 👋 I'm Mateo
 
-I'm a 20-year-old programming student at UTN San Nicolás, Argentina. I'm passionate about building efficient software, solving complex problems, and currently expanding my skills in web development.
+I'm a 20-year-old 
+I'm passionate about building efficient software, solving complex problems, and currently expanding my skills in web development.
 
 * 🎓 **Education:** Programming Student at UTN San Nicolás.
 * 🚀 **Goals:** Always looking to improve my logic, write clean code, and learn best practices.
@@ -15,9 +16,6 @@ I'm a 20-year-old programming student at UTN San Nicolás, Argentina. I'm passio
 
 ### 🌱 Currently Learning
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-### 📊 GitHub Stats
-[![Mateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateo-247&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 How to reach me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateomastroianni1@gmail.com)
