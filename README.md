@@ -4,10 +4,10 @@ I'm a 20-year-old
 
 I'm passionate about building efficient software, solving complex problems, and currently expanding my skills in web development.
 
-* 🎓 **Education:** Programming Student at UTN San Nicolás.
-* 🚀 **Goals:** Always looking to improve my logic, write clean code, and learn best practices.
+*  **Education:** Programming Student at UTN San Nicolás.
+*  **Goals:** Always looking to improve my logic, write clean code, and learn best practices.
 
-### 💻 Tech Stack
+###  Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL_Server](https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -17,8 +17,8 @@ I'm passionate about building efficient software, solving complex problems, and 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🌱 Currently Learning
+###  Currently Learning
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### 📫 How to reach me
+###  How to reach me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateomastroianni1@gmail.com)
