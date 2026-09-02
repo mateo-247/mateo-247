@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Mateo
+Hello I'm Mateo
 
 I'm a 20-year-old 
 
